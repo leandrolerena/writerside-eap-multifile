@@ -1,0 +1,1 @@
+This is to document the issue at https://youtrack.jetbrains.com/issue/WRS-3933/No-support-for-multiple-markdowns-with-the-same-name-e.g.-README.md
